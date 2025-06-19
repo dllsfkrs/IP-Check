@@ -1,14 +1,14 @@
 # What is used
 Programming language   
-[Python](https://www.python.org/downloads/)   
+[Python](https://www.python.org/downloads/) - programming language   
 
 Python libraries     
-[stealth-requests](https://pypi.org/project/stealth-requests/) - HTTPS requests     
-[fake-useragent](https://pypi.org/project/fake-useragent/) - random user-agent for requests    
-[ipwhois](https://pypi.org/project/ipwhois/) - WHOIS information     
+[stealth-requests](https://pypi.org/project/stealth-requests/) - HTTPS requests      
+[fake-useragent](https://pypi.org/project/fake-useragent/) - random user-agent for requests      
+[ipwhois](https://pypi.org/project/ipwhois/) - WHOIS information        
 
 API    
-[ipapi](https://ipapi.co/)   
+[ipapi](https://ipapi.co/) - IP address information  
 
 # Installation 
 1. Clone a repository  
